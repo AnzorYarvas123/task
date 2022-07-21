@@ -1,0 +1,130 @@
+body{
+    background-color: rgba(136, 109, 166, 0.126);
+    
+}
+
+.Tab{
+    background-color: rgb(10, 10, 158);
+    color: white;
+    font-size:25px;
+    padding: 5px;
+    text-align: end;
+   
+}
+
+.Email{
+    height: 20px;
+}
+
+.button:active {
+    background: blue;
+  }
+
+
+.button{
+    color: white;
+    margin: 8px 6px;
+    background-color: rgb(72, 72, 210);
+    font-size: 23px;
+    
+}
+
+
+
+
+h1{
+    
+    text-align: center;
+    font-size: 85px;
+    color:rgb(85, 13, 153) ;
+    border-style: double;
+    border-color: rgb(85, 13, 153);
+    border-width: 9px;
+    margin: 10px 400px 10px 400px;
+    padding: 10px 0px 10px 0px;
+
+    
+}
+
+
+.position{
+    position: sticky;
+    top: 222px;
+    
+    border: 3px dashed rgb(205, 13, 13);
+    text-align: center;
+    color: brown;
+    font-size: 77px;
+    margin-top: 40px 60px 0px 60px;
+ 
+    
+    }
+
+
+    .p_2{
+        text-align: center;
+        font-size: 33px;
+        color: white;
+        text-shadow: 2px 2px 4px #460199;
+    }
+
+
+.Input_1{
+    text-align: end;
+
+}
+
+.form_1{
+position: relative;
+left: 250px;
+
+  
+    
+}
+.table_1{
+    text-align: center;
+}
+
+
+
+.row img{
+  
+    width: 360px;
+    height: 360px;
+    
+}
+.row{
+    display: inline;
+
+    }
+
+    .submit{
+        
+
+    }
+
+.FeedBack{
+    text-align: center;
+    border:1px d ;
+    
+}
+
+
+.footer{
+    text-align: end;
+    padding-right: 52px;
+}
+
+
+
+
+.Html_2{
+    margin-top: 20%;
+    margin-left: 500px;
+    margin-right: 500px;
+    border: 2px solid black;
+   
+    text-align: center;
+
+    
+}
